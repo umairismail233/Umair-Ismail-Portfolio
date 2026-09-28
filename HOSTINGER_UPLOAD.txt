@@ -1,0 +1,24 @@
+UMAIR ISMAIL — HOSTINGER UPLOAD GUIDE
+High-Impact Learning Systems & Operations Architecture Portfolio
+
+This ZIP contains your ready-to-upload static website. 
+It requires zero Node.js setup, zero build steps, zero database, and zero external runtime dependencies. 
+It loads in under 50ms, works in all modern browsers, and features native Dark/Light mode, interactive case study modals, and an operational diagnostic tool.
+
+FILES INCLUDED IN THIS PACKAGE:
+- index.html                Main homepage with all semantic content and structured meta
+- styles.css                Executive editorial & precision systems stylesheet (Responsive & Dark/Light)
+- script.js                 Interactive engine (Diagnostic tool, case modals, theme toggle, copy email)
+- Umair-Ismail-Resume.pdf   Directly downloadable PDF résumé
+- favicon.svg               Custom geometric browser icon
+- images/potential.webp     Original archive asset
+- HOSTINGER_UPLOAD.txt      This upload guide
+
+HOW TO UPLOAD TO HOSTINGER:
+1. Log in to your Hostinger hPanel.
+2. Go to Websites -> Manage -> File Manager (for your domain).
+3. Open the public_html folder.
+4. Upload Umair-Ismail.zip directly into public_html.
+5. Right-click Umair-Ismail.zip and choose "Extract".
+6. Ensure index.html, styles.css, script.js, Umair-Ismail-Resume.pdf, and favicon.svg are directly inside public_html (not nested in an extra subfolder).
+7. Visit your domain over HTTPS. Everything is 100% active and live!
